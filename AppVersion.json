@@ -1,2 +1,5 @@
-{ "version": "3.0.2", "url": "https://unreal-scripts-releases.vercel.app/UnrealScriptsInstaller.zip", "patchnotes": "Tilin Agredado" }
-
+{
+  "version": "3.1.0",
+  "url": "https://unreal-scripts-releases.vercel.app/UnrealScriptsInstaller.zip",
+  "patchnotes": "This update adds licensed scripts. If you buy a premium script, it now unlocks automatically once you connect your authorized device, no extra setup needed.\n\nWe also fixed an issue where the device connection popup could stop responding if you waited too long before clicking Connect. If nobody responds to the device picker in time, the app now closes cleanly instead of showing an error.\n\nOn top of that, we made some additional security and anti-tampering improvements under the hood."
+}
